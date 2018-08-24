@@ -1,0 +1,200 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "National Kidney Foundation",
+        "Opens at": "10.00AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.945583,
+          72.83103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Mohan Foundation",
+        "Opens at": "10.00AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.999838,
+          72.840614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Narmada Kidney Foundation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.115474,
+          72.861612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Narmada Kidney Foundation",
+        "Opens at": "11.30AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.13596,
+          72.882798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Riddhi Chemicals",
+        "Speciality": "organ donation & tissue bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.197908,
+          72.838879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "The Federation of Organ & Body Donation",
+        "Speciality": "Non profit organization",
+        "Opens at": "open 24 hours"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.185815,
+          73.033611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "The Federation of Organ & Body Donation",
+        "Speciality": "Non profit organization"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.287492,
+          72.864974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Chem India Pigments",
+        "Speciality": "Organ Donation & Tissue Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.176883,
+          72.584132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Institute of Kidney Diseases and Research Center",
+        "Speciality": "Hospital",
+        "Opens at": "9.00AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.051937,
+          72.608826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "India Renal Foundation",
+        "Speciality": "Foundation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.020755,
+          72.554661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Mohan Foundation",
+        "Speciality": "Organ Donation & Tissue Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.143041,
+          79.069227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "KIDNEY FEDERATION OF INDIA",
+        "Speciality": "Organ Donation & Tissue Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.799844,
+          76.590691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "INDIAN SOCIETY OF ORGAN TRANSPLANTATION",
+        "Speciality": "Non profit organization"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.01558,
+          80.979447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "Name": "ORGAN India",
+        "Speciality": "Non profit organization"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        29.023490,
+          77.270375
+        ]
+      }
+    }
+  ]
+}
